@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Averyanalex's GitHub stats](https://github-readme-stats.vercel.app/api?username=averyanalex&show_icons=true&theme=algolia)
 <!--
 **averyanalex/averyanalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
