@@ -16,6 +16,7 @@
 <a href="https://archlinux.org"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/archlinux.svg" alt="archlinux" width="40" height="40"/> </a>
 <a href="https://debian.org"> <img src="https://www.debian.org/logos/openlogo.svg" alt="debian" width="40" height="40"/> </a>
 <a href="https://nixos.org"> <img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nixos-text-below.svg" alt="nixos" width="40" height="40"/> </a>
+<a href="https://nixos.org"> <img src="https://raw.githubusercontent.com/matrix-org/matrix.org/master/content/matrix%20logo.svg" alt="nixos" width="80" height="40"/> </a>
 </p>
 
 ### My stats:
