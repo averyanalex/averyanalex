@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, my name is Alexander</h1>
+ <p><img align="center" src="https://readme-typing-svg.herokuapp.com?color=%233772DF&center=true&lines=%F0%9F%91%8B+Hi%2C+my+name+is+Alexander" alt="name" /></p>
 
 ### Contact me:
 * **Telegram:** [t.me/averyanalex](https://t.me/averyanalex)
@@ -25,4 +25,6 @@
 ### I coded this week:
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=averyanalex&theme=default&hide_borders=true" /></a>
 <p></p>
-<p><img align="left" src="https://badges.pufler.dev/visits/averyanalex/averyanalex?style=flat&color=blue&label=Profile%20visits" alt="profile-visits" /></p>
+<p><img align="left" src="https://badges.pufler.dev/visits/averyanalex/averyanalex?style=flat&color=blue&label=Profile%20visits" alt="visits" /></p>
+<p><img align="left" src="https://badges.pufler.dev/years/averyanalex?style=flat&color=blue" alt="visits" /></p>
+<p><img align="left" src="https://badges.pufler.dev/repos/averyanalex?style=flat&color=blue" alt="repos" /></p>
