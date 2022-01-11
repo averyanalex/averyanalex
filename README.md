@@ -3,7 +3,7 @@
 ### Contact me:
 * **Telegram:** [t.me/averyanalex](https://t.me/averyanalex)
 
-### My favourite projects:
+### My favourite projects, tools, etc:
 <p align="left">
 <a href="https://go.dev"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 <a href="https://www.rust-lang.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
@@ -16,8 +16,8 @@
 <a href="https://debian.org"> <img src="https://www.debian.org/logos/openlogo.svg" alt="debian" width="40" height="40"/> </a>
 <a href="https://nixos.org"> <img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nixos-text-below.svg" alt="nixos" width="40" height="40"/> </a>
 <a href="https://arduino.cc"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> </a>
+<a href="https://git-scm.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="40" height="40"/> </a>
 </p>
-
 ### My stats:
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=averyanalex&show_icons=true&theme=default&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=averyanalex&show_icons=true&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
