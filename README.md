@@ -6,4 +6,3 @@
 * Telegram: [t.me/averyanalex](https://t.me/averyanalex)
 
 [![Visits Badge](https://badges.pufler.dev/visits/averyanalex/averyanalex)](https://badges.pufler.dev)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-144-blue)
