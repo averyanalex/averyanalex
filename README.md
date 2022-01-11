@@ -12,10 +12,10 @@
 <a href="https://www.kernel.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://vuejs.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://arduino.cc"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://archlinux.org"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/archlinux.svg" alt="archlinux" width="40" height="40"/> </a>
 <a href="https://debian.org"> <img src="https://www.debian.org/logos/openlogo.svg" alt="debian" width="40" height="40"/> </a>
 <a href="https://nixos.org"> <img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nixos-text-below.svg" alt="nixos" width="40" height="40"/> </a>
+<a href="https://arduino.cc"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
 
 ### My stats:
