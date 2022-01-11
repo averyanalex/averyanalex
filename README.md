@@ -23,6 +23,6 @@
 | ------------- | ------------- |
 
 ### I coded this week:
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=averyanalex&theme=default&hide_borders=true" /></a> |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=averyanalex&theme=default&hide_borders=true" /></a>
 <p></p>
 <p><img align="left" src="https://badges.pufler.dev/visits/averyanalex/averyanalex?style=flat&color=blue&label=Profile%20visits" alt="profile-visits" /></p>
