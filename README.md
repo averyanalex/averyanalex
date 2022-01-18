@@ -24,7 +24,7 @@
 | ------------- | ------------- |
 
 ### I coded this week:
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=averyanalex&theme=default&hide_borders=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=averyanalex&theme=default&hide_borders=true&langs_count=5" /></a>
 <p></p>
 <p><img align="left" src="https://badges.pufler.dev/visits/averyanalex/averyanalex?style=flat&color=blue&label=Profile%20visits" alt="visits" /></p>
 <p><img align="left" src="https://badges.pufler.dev/years/averyanalex?style=flat&color=blue" alt="visits" /></p>
