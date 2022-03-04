@@ -2,6 +2,7 @@
 
 ### Contact me:
 * **Telegram:** [t.me/averyanalex](https://t.me/averyanalex)
+* **Matrix:** [@alex:averyan.ru](https://matrix.to/#/@alex:averyan.ru)
 
 ### My favourite projects, tools, etc:
 <p align="left">
