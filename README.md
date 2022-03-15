@@ -1,8 +1,9 @@
- <p><img align="center" src="https://readme-typing-svg.herokuapp.com?color=%233772DF&center=true&lines=%F0%9F%91%8B+Hi%2C+my+name+is+Alexander" alt="name" /></p>
+<p><img align="center" src="https://readme-typing-svg.herokuapp.com?color=%233772DF&center=true&lines=%F0%9F%91%8B+Hi%2C+my+name+is+Alexander" alt="name" /></p>
 
 ### Contact me:
-* **Telegram:** [t.me/averyanalex](https://t.me/averyanalex)
-* **Matrix:** [@alex:averyan.ru](https://matrix.to/#/@alex:averyan.ru)
+- **Telegram:** [t.me/averyanalex](https://t.me/averyanalex)
+- **Matrix:** [@alex:averyan.ru](https://matrix.to/#/@alex:averyan.ru)
+
 
 ### My favourite projects, tools, etc:
 <p align="left">
