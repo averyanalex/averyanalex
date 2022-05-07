@@ -18,6 +18,7 @@
 <a href="https://nixos.org"> <img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nixos-text-below.svg" alt="nixos" width="40" height="40"/> </a>
 <a href="https://arduino.cc"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://git-scm.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://svelte.dev/"> <img src="https://raw.githubusercontent.com/sveltejs/sites/master/sites/svelte.dev/static/favicon.png" alt="svelte" width="40" height="40"/> </a>
 </p>
 
 ### My stats:
