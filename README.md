@@ -1,10 +1,15 @@
 <p><img align="center" src="https://readme-typing-svg.herokuapp.com?color=%233772DF&center=true&lines=%F0%9F%91%8B+Hi%2C+my+name+is+Alexander" alt="name" /></p>
 
+### My GPG key: [6AF4D168E4B6C49A](https://keyoxide.org/627ce64c837af198d1cbb3756af4d168e4b6c49a)
+
 ### Contact me:
+
 - **Telegram:** [t.me/averyanalex](https://t.me/averyanalex)
 - **Email:** [alex@averyan.ru](mailto:alex@averyan.ru)
+- **Matrix:** [@alex:averyan.ru](https://matrix.to/#/@alex:averyan.ru)
 
 ### My favourite projects, tools, etc:
+
 <p align="left">
 <a href="https://go.dev"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 <a href="https://www.rust-lang.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
@@ -22,12 +27,10 @@
 </p>
 
 ### My stats:
+
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=averyanalex&show_icons=true&theme=default&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=averyanalex&show_icons=true&theme=default&hide_border=true" /></a> |
-| ------------- | ------------- |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### I coded this week:
+
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=averyanalex&theme=default&hide_borders=true&langs_count=5" /></a>
-<p></p>
-<p><img align="left" src="https://badges.pufler.dev/visits/averyanalex/averyanalex?style=flat&color=blue&label=Profile%20visits" alt="visits" /></p>
-<p><img align="left" src="https://badges.pufler.dev/years/averyanalex?style=flat&color=blue" alt="visits" /></p>
-<p><img align="left" src="https://badges.pufler.dev/repos/averyanalex?style=flat&color=blue" alt="repos" /></p>
