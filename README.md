@@ -1,6 +1,6 @@
 <p><img align="center" src="https://readme-typing-svg.herokuapp.com?color=%233772DF&center=true&lines=%F0%9F%91%8B+Hi%2C+my+name+is+Alexander" alt="name" /></p>
 
-### My GPG key: [6AF4D168E4B6C49A](https://keyoxide.org/627ce64c837af198d1cbb3756af4d168e4b6c49a)
+### My GPG key: [3C23C7BD99452036](https://keyoxide.org/a0ff4f266b800b86726dea5b3c23c7bd99452036)
 
 ### Contact me:
 
