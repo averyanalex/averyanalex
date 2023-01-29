@@ -6,7 +6,6 @@
 
 - **Telegram:** [t.me/averyanalex](https://t.me/averyanalex)
 - **Email:** [alex@averyan.ru](mailto:alex@averyan.ru)
-- **Matrix:** [@alex:averyan.ru](https://matrix.to/#/@alex:averyan.ru)
 
 ### My favourite projects, tools, etc:
 
