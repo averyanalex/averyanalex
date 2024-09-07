@@ -1,36 +1,18 @@
-<p><img align="center" src="https://readme-typing-svg.herokuapp.com?color=%233772DF&center=true&lines=%F0%9F%91%8B+Hi%2C+my+name+is+Alexander" alt="name" /></p>
+<p><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=%F0%9F%8E%93+Learning+CS+at+HSE" alt="name"/></p>
 
 ### My GPG key: [3C23C7BD99452036](https://keyoxide.org/a0ff4f266b800b86726dea5b3c23c7bd99452036)
 
-### Contact me:
+### Contact me
 
 - **Matrix:** [@averyanalex:neutrino.su](https://matrix.to/#/@averyanalex:neutrino.su)
 - **Telegram:** [@averyanalex](https://t.me/averyanalex)
 - **Email:** [alex@averyan.ru](mailto:alex@averyan.ru)
 
-### My favourite projects, tools, etc:
+<!-- ### Skills
 
-<p align="left">
-<a href="https://go.dev"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://www.rust-lang.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
-<a href="https://www.docker.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://flutter.dev"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://www.kernel.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://vuejs.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://archlinux.org"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/archlinux.svg" alt="archlinux" width="40" height="40"/> </a>
-<a href="https://debian.org"> <img src="https://www.debian.org/logos/openlogo.svg" alt="debian" width="40" height="40"/> </a>
-<a href="https://nixos.org"> <img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nixos-text-below.svg" alt="nixos" width="40" height="40"/> </a>
-<a href="https://arduino.cc"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://git-scm.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://svelte.dev/"> <img src="https://raw.githubusercontent.com/sveltejs/sites/master/sites/svelte.dev/static/favicon.png" alt="svelte" width="40" height="40"/> </a>
-</p>
+<div>
+<p><a href="https://www.rust-lang.org/"><img style="vertical-align: middle;" alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust"/></a> sus</p>
+<p><a href="https://www.rust-lang.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux"/></a></p>
+</div> -->
 
-### My stats:
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=averyanalex&show_icons=true&theme=default&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=averyanalex&show_icons=true&theme=default&hide_border=true" /></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-### I coded this week:
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=averyanalex&theme=default&hide_borders=true&langs_count=5" /></a>
+<p align="center"><img src="/github-metrics.svg" /></p>
