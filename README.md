@@ -4,7 +4,6 @@
 
 ### Contact me
 
-- **Matrix:** [@averyanalex:neutrino.su](https://matrix.to/#/@averyanalex:neutrino.su)
 - **Telegram:** [@averyanalex](https://t.me/averyanalex)
 - **Email:** [alex@averyan.ru](mailto:alex@averyan.ru)
 
